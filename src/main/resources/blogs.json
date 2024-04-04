@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "First Blog",
+        "body": "This is the body of my first blog",
+        "keywords": ["SpringBoot", "REST", "Java"]
+    },
+    {
+        "id": 2,
+        "title": "Second Blog",
+        "body": "This is the body of my second blog",
+        "keywords": ["Spring", "Data", "API"]
+    }
+]
